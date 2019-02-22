@@ -1,3 +1,4 @@
+## Functions for setting the regions of locations for both DMR (Differential Methylated Regions) and SNP
 SNP_WGS <- function(x,y){
   
   Sample_Chrom = as.character(x$CHROM)
