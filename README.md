@@ -19,4 +19,4 @@ To download and use VCFtools, please follow: https://vcftools.github.io/index.ht
 For each sample: 
 vcftools --gzvcf input.vcf --bed input.bed --counts --out output_snp_count.csv
 
-## Put all samples snp_count files and bed file into the same directory
+Put all samples snp_count files and bed file into the same directory
