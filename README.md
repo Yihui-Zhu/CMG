@@ -21,3 +21,8 @@ vcftools --gzvcf input.vcf --bed input.bed --counts --out output_snp_count.csv
 
 The output files are ending with frq.count
 Put all samples frq.count files and bed file into the same directory
+
+## Three Major Functions
+Function1: Make summarize genotype data files for all samples
+Function2: Select the SNP located inside DMRs or windows
+Function3: Number the major homozygous genotype: 1; hetezygous genotype: 2; minor homozygous genotype: 3
