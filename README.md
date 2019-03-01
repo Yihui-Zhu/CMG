@@ -23,10 +23,10 @@ The output files are ending with frq.count
 Put all samples frq.count files and bed file into the same directory
 
 ## Three Major Functions
-### Genotype
+### Genotype function
 Function1: Make summarize genotype data files for all samples.
 
-### Meth_Geno
+### Meth_Geno function
 Function2: Select the SNP located inside DMRs or windows.
 
 
