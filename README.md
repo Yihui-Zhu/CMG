@@ -1,5 +1,4 @@
-# MethGenoR R Package
-
+# MethGenoR Analysis
 This script is used to generate SNPs located in Differential Methylated Regions or windows filesand
 test for in cis regulation associations.
 
